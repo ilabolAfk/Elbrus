@@ -4,7 +4,7 @@
 
 # 🏔️ Эльбрус
 
-**Административный инструментарий для экстренного восстановления Windows**
+ **Административный инструментарий для экстренного восстановления Windows**
 
 ![Version](https://img.shields.io/badge/version-3.0-blue?style=flat-square)
 ![Windows](https://img.shields.io/badge/platform-Windows_10_|_11-0078d4?style=flat-square&logo=windows&logoColor=white)
@@ -13,7 +13,6 @@
 [![Releases](https://img.shields.io/badge/release-V3.0-blue?style=flat-square&logo=github)](https://github.com/ilabolAfk/Elbrus/releases)
 
 </div>
-### Административный инструментарий для экстренного восстановления Windows
 
 ---
 
